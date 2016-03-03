@@ -1,15 +1,9 @@
 {
     "name": "splendidinternet/mage2-de",
     "type": "metapackage",
-    "repositories": [
-        {
-        "type": "vcs",
-        "url": "https://github.com/firegento/firegento-magesetup2"
-        }
-    ],
     "require": {
         "splendidinternet/mage2-locale-de-de": "^1.0.0",
         "splendidinternet/mage2-theme-spluma": "^1.0.0",
-        "firegento/magesetup2": "dev-develop"
+        "splendidinternet/magesetup2-mirror": "dev-develop"
     }
 }
