@@ -3,7 +3,6 @@
     "type": "metapackage",
     "require": {
         "splendidinternet/mage2-locale-de-de": "^1.0.0",
-        "splendidinternet/mage2-theme-spluma": "^1.0.0",
         "splendidinternet/magesetup2-mirror": "^0.0.0"
     }
 }
