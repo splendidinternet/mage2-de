@@ -1,5 +1,5 @@
 {
-    "name": "splendid/mage2-de",
+    "name": "splendidinternet/mage2-de",
     "type": "metapackage",
     "repositories": [
         {
@@ -8,8 +8,8 @@
         }
     ],
     "require": {
-        "splendid/de-de": "^1.0.0",
-        "splendid/spluma": "^1.0.0",
+        "splendidinternet/de-de": "^1.0.0",
+        "splendidinternet/spluma": "^1.0.0",
         "firegento/magesetup2": "dev-develop"
     }
 }
