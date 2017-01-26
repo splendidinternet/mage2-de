@@ -3,6 +3,6 @@
     "type": "metapackage",
     "require": {
         "splendidinternet/mage2-locale-de-de": "*",
-        "splendidinternet/magesetup2-mirror": "*"
+        "firegento/magesetup2": "*"
     }
 }
